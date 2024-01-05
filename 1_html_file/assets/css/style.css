@@ -22,10 +22,10 @@
 :root {
     --thm-font: 'Inter', sans-serif;
     --thm-font-2: "reeyregular";
-    --thm-base: #ff7a00;
-    --thm-base-rgb: 255, 122, 0;
-    --thm-primary: #182978;
-    --thm-primary-rgb: 24, 41, 120;
+    --thm-base: #847708e4;
+    --thm-base-rgb: 204, 204, 0;
+    --thm-primary: #116d0b8a;
+    --thm-primary-rgb: 0, 204, 0;
     --thm-gray: #515151;
     --thm-gray-rgb: 81, 81, 81;
     --thm-white: #ffffff;
