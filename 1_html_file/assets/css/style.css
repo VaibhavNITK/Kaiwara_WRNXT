@@ -1805,7 +1805,7 @@ select:focus {
     top: 0;
     left: 0;
     width: 300px;
-    background-color: #121f5a;
+    background-color: #066706;
     padding: 22px 50px 22px;
 }
 
@@ -2369,7 +2369,7 @@ select:focus {
 }
 
 .single-finances-box:hover .img-box .overly-icon {
-    background-color: #182978;
+    background-color: #066706;
     box-shadow: none;
 }
 
@@ -2465,7 +2465,7 @@ select:focus {
 
 .single-finances-box .btn-box .btn-one:hover i {
     color: #ffffff;
-    background-color: #f9a456;
+    background-color: #f9f956;
 }
 
 
@@ -2629,7 +2629,7 @@ select:focus {
 .features-style3-text-box__inner ul li .icon span {
     position: relative;
     display: inline-block;
-    color: #182978;
+    color: #066706;
     font-size: 60px;
     line-height: 60px;
 }
@@ -2844,7 +2844,7 @@ select:focus {
 .single-features-style2 .overlay-text-box .btns-box .static-btn a {
     position: relative;
     display: inline-block;
-    color: #FF7A00;
+    color: #f9f956;
     font-size: 24px;
     line-height: 60px;
 }
@@ -2959,7 +2959,7 @@ select:focus {
 
 .single-services-style1.active .img-box .inner .overly-icon,
 .single-services-style1:hover .img-box .inner .overly-icon {
-    background-color: #ff7a00;
+    background-color: #f9f956;
 }
 
 .single-services-style1 .img-box .inner .overly-icon span {
@@ -4599,7 +4599,7 @@ select:focus {
     right: 0;
     opacity: 0;
     height: 100%;
-    background: linear-gradient(180deg, rgba(24, 41, 120, 0) 0%, #182978 77.08%);
+    background: linear-gradient(180deg, rgba(8, 157, 77, 0) 0%, #18782d 77.08%);
     transform: perspective(400px) rotateX(10deg) translateY(40px);
     transform-origin: center;
     transform-style: preserve-3d;
@@ -5569,7 +5569,7 @@ select:focus {
 .call-back-form form .form-group .label-box label span {
     position: relative;
     display: inline-block;
-    color: #FF7A00;
+    color: #f9f956;
     font-size: 18px;
     text-transform: capitalize;
 }
@@ -7461,9 +7461,9 @@ select:focus {
 
 .ui-datepicker-calendar .ui-state-default:hover,
 .ui-datepicker-calendar .ui-state-default:active {
-    background: #43c3ea;
+    background: #43ea6a;
     color: #fff;
-    border-color: #43c3ea;
+    border-color: #43ea6a;
 }
 
 
