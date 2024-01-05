@@ -7,7 +7,7 @@
     position: relative;
     display: block;
     padding: 130px 0px 65px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     overflow: hidden;
     z-index: 10;
 }
@@ -47,7 +47,7 @@
     left: 0;
     bottom: 0;
     width: 50%;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     background-blend-mode: soft-light;
     opacity: 0.30;
     background-attachment: scroll;
@@ -63,7 +63,7 @@
     bottom: 0;
     right: 0px;
     width: 50%;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     background-blend-mode: soft-light;
     opacity: 0.30;
     background-attachment: scroll;

@@ -44,7 +44,7 @@
     left: -120px;
     width: 545px;
     height: 253px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     mix-blend-mode: overlay;
     clip-path: polygon(0 0, 50% 100%, 100% 0);
 }
@@ -55,7 +55,7 @@
     right: -253px;
     width: 510px;
     height: 436px;
-    background: rgba(var(--thm-basee-rgb), 0.5);
+    background: rgba(var(--thm-baseee-rgb), 0.5);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -158,7 +158,7 @@
 }
 
 .footer-top__app-download ul li a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
     border: 1px solid rgba(255, 255, 255, 0.50);
 }
 
@@ -198,7 +198,7 @@
 }
 
 .footer-top__outer .single-box a:hover {
-    border-color: var(--thm-basee);
+    border-color: var(--thm-baseee);
 }
 
 .footer-top__outer .single-box a::before {
@@ -208,7 +208,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
     border-radius: 2px;
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
@@ -269,7 +269,7 @@
 }
 
 .footer-widget-contact-info .phone-number p {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
     font-size: 14px;
     line-height: 20px;
     margin: 0 0 8px;
@@ -289,7 +289,7 @@
 }
 
 .footer-widget-contact-info .phone-number a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 
@@ -318,7 +318,7 @@
 .footer-widget-contact-info ul li .icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
     font-size: 20px;
     line-height: 20px;
 }
@@ -335,7 +335,7 @@
 }
 
 .footer-widget-contact-info ul li p a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 
@@ -426,7 +426,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
     transform: perspective(400px) scaleX(0);
     transform-origin: left;
     transition: all 300ms linear;
@@ -498,7 +498,7 @@
 }
 
 .copyright-text p a {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
     font-weight: 600;
     transition: all 300ms ease 100ms;
 }
@@ -550,7 +550,7 @@
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     border-radius: 50%;
     content: "";
     opacity: 0;
@@ -567,7 +567,7 @@
 
 .footer-social-link ul li:hover a {
     color: #ffffff;
-    border-color: var(--thm-basee);
+    border-color: var(--thm-baseee);
 }
 
 

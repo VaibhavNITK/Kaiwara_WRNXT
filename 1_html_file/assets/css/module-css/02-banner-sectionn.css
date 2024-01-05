@@ -110,7 +110,7 @@
     display: block;
     width: 50px;
     height: 2px;
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
     margin-right: 20px;
 }
 
@@ -245,7 +245,7 @@
 }
 
 .main-slider .main-slider-content .btn-box a+a i {
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
     color: #ffffff;
 }
 
@@ -290,7 +290,7 @@
 .main-slider__nav .swiper-button-next:hover,
 .main-slider__nav .swiper-button-prev:hover {
     color: #ffffff;
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
 }
 
 .main-slider__nav .swiper-button-next::after,
@@ -315,7 +315,7 @@
     right: 0;
     width: 380px;
     height: 220px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 1;
@@ -327,7 +327,7 @@
     right: -311px;
     width: 566px;
     height: 485px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 2;
@@ -350,7 +350,7 @@
     left: 0;
     bottom: 0;
     width: calc((100% + 420px) / 2);
-    background-color: var(--thm-primaryy);
+    background-color: var(--thm-primaryyy);
     z-index: -1;
 }
 

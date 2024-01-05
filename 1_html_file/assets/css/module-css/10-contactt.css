@@ -39,7 +39,7 @@
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background: rgba(var(--thm-basee-rgb), .10);
+    background: rgba(var(--thm-baseee-rgb), .10);
     z-index: -1;
 }
 
@@ -71,7 +71,7 @@
 }
 
 .single-contact-info-box .content-box .text-box h4 a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 .single-contact-info-box .img-box {
@@ -188,7 +188,7 @@
 .contact-form form input[type="text"]:focus,
 .contact-form form input[type="email"]:focus,
 .contact-form form textarea:focus {
-    border: 1px solid var(--thm-basee);
+    border: 1px solid var(--thm-baseee);
     outline: none;
 }
 
@@ -332,7 +332,7 @@
     left: 0;
     width: 21px;
     height: 21px;
-    border: 2px solid var(--thm-basee);
+    border: 2px solid var(--thm-baseee);
     border-radius: 50%;
     transition: all 200ms linear;
     transition-delay: 0.1s;
@@ -345,7 +345,7 @@
     left: 6px;
     width: 9px;
     height: 9px;
-    background: var(--thm-basee);
+    background: var(--thm-baseee);
     border-radius: 50%;
     transform: scale(0);
     transition: all 200ms linear;
@@ -442,9 +442,9 @@
     display: block;
     width: 100%;
     height: 60px;
-    background-color: rgba(var(--thm-basee-rgb), .05);
+    background-color: rgba(var(--thm-baseee-rgb), .05);
     border: 0px solid #1a1c23;
-    border-bottom: 2px solid rgba(var(--thm-basee-rgb), .10);
+    border-bottom: 2px solid rgba(var(--thm-baseee-rgb), .10);
     color: #000000;
     font-size: 17px;
     font-weight: 400;
@@ -465,12 +465,12 @@
 .location-search-box .search-form input[type="text"]:focus {
     color: #000000;
     padding-left: 25px;
-    border-bottom: 2px solid rgba(var(--thm-basee-rgb), .99);
+    border-bottom: 2px solid rgba(var(--thm-baseee-rgb), .99);
 }
 
 .location-search-box .search-form input[type="text"]:focus+button,
 .location-search-box .search-form button:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 .location-search-box .search-form input::-webkit-input-placeholder {
@@ -538,7 +538,7 @@
     right: -98px;
     width: 233px;
     height: 186px;
-    background-color: var(--thm-basee);
+    background-color: var(--thm-baseee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 2;
@@ -576,7 +576,7 @@
 }
 
 .contact-info-style3__img-box .text h4 a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 .contact-info-style3__img-box .text ul {
@@ -606,7 +606,7 @@
 }
 
 .contact-info-style3__img-box .text ul li a:hover {
-    color: var(--thm-basee);
+    color: var(--thm-baseee);
 }
 
 
