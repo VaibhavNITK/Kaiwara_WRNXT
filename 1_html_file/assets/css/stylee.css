@@ -22,10 +22,10 @@
 :root {
     --thm-font: 'Inter', sans-serif;
     --thm-font-2: "reeyregular";
-    --thm-base: #847708e4;
-    --thm-base-rgb: 204, 204, 0;
-    --thm-primary: #116d0b8a;
-    --thm-primary-rgb: 0, 204, 0;
+    --thm-basee: #5AA057;
+    --thm-basee-rgb: 90, 160, 87;
+    --thm-primaryy: #FCDD10;
+    --thm-primaryy-rgb: 252, 221, 16;
     --thm-gray: #515151;
     --thm-gray-rgb: 81, 81, 81;
     --thm-white: #ffffff;
@@ -312,7 +312,7 @@ select:focus {
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background-color: rgba(var(--thm-base-rgb), 1);
+    background-color: rgba(var(--thm-basee-rgb), 1);
     border-radius: 5px;
     content: "";
     opacity: 0;
@@ -438,8 +438,8 @@ select:focus {
 }
 
 .xs-sidebar-group .widget-heading a:hover {
-    color: var(--thm-base);
-    border-color: var(--thn-base);
+    color: var(--thm-basee);
+    border-color: var(--thn-basee);
 }
 
 .xs-sidebar-group .content-inner .logo {
@@ -523,7 +523,7 @@ select:focus {
 .sidebar-contact-info ul li .inner .icon span {
     position: relative;
     display: block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 27px;
     line-height: 27px;
     font-weight: 500;
@@ -551,8 +551,8 @@ select:focus {
 }
 
 .sidebar-contact-info ul li .inner .text p a:hover {
-    color: var(--thm-base);
-    text-shadow: -0.45px -0.45px 0 var(--thm-base), 0.45px 0.45px var(--thm-base);
+    color: var(--thm-basee);
+    text-shadow: -0.45px -0.45px 0 var(--thm-basee), 0.45px 0.45px var(--thm-basee);
 }
 
 .xs-sidebar-group .content-inner .side-content-newsletter-box {
@@ -652,7 +652,7 @@ select:focus {
     display: block;
     width: 50px;
     height: 2px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     margin-right: 10px;
 }
 
@@ -661,7 +661,7 @@ select:focus {
 }
 
 .sec-title .sub-title h4 {
-    color: #81ABFF;
+    color: #FCDD10;
     font-size: 15px;
     line-height: 25px;
     font-weight: 500;
@@ -748,7 +748,7 @@ select:focus {
     opacity: 1;
     transform: scaleX(1);
     transition-duration: 800ms;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     z-index: -1;
 }
 
@@ -807,9 +807,9 @@ select:focus {
     justify-content: center;
     width: 30px;
     height: 30px;
-    border: 1px solid var(--thm-base);
+    border: 1px solid var(--thm-basee);
     border-radius: 50%;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 18px;
     margin-right: 10px;
     transition: border-color 0.5s ease;
@@ -828,7 +828,7 @@ select:focus {
     left: -1px;
     bottom: -1px;
     right: -1px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     border-radius: 50%;
     content: "";
     opacity: 0;
@@ -845,7 +845,7 @@ select:focus {
 }
 
 .btn-two:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 
@@ -875,8 +875,8 @@ select:focus {
 }
 
 .owl-carousel.owl-dot-style1 .owl-dots .owl-dot.active {
-    background-color: var(--thm-base);
-    border-color: var(--thm-base);
+    background-color: var(--thm-basee);
+    border-color: var(--thm-basee);
 }
 
 .owl-carousel.owl-dot-style1 .owl-dots .owl-dot:before {
@@ -886,7 +886,7 @@ select:focus {
     left: -8px;
     bottom: -8px;
     right: -8px;
-    border: 1px solid var(--thm-base);
+    border: 1px solid var(--thm-basee);
     border-radius: 50%;
     transform: scale(0);
     transition: all 500ms ease;
@@ -934,7 +934,7 @@ select:focus {
     left: -5px;
     bottom: -5px;
     right: -5px;
-    border: 1px solid var(--thm-base);
+    border: 1px solid var(--thm-basee);
     border-radius: 50%;
     transform: scale(0);
     transition: all 500ms ease;
@@ -942,7 +942,7 @@ select:focus {
 
 .owl-carousel.owl-dot-style2 .owl-dots .owl-dot.active {
     border: 5px solid #1a1c23;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 .owl-carousel.owl-dot-style2 .owl-dots .owl-dot.active:before {
@@ -995,7 +995,7 @@ select:focus {
     left: -1px;
     bottom: -1px;
     right: -1px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     border-radius: 50%;
     z-index: -1;
     opacity: 0;
@@ -1096,7 +1096,7 @@ select:focus {
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     opacity: 1;
 }
 
@@ -1105,7 +1105,7 @@ select:focus {
     top: 0;
     right: 0;
     height: 100%;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
 }
 
 .scroll-to-top .scroll-bar-text {
@@ -1222,8 +1222,8 @@ select:focus {
 .styled-pagination li:hover a,
 .styled-pagination li.active a {
     color: #ffffff;
-    border-color: var(--thm-base);
-    background: var(--thm-base);
+    border-color: var(--thm-basee);
+    background: var(--thm-basee);
 }
 
 .styled-pagination li.prev a,
@@ -1293,7 +1293,7 @@ select:focus {
     bottom: 0;
     right: 0;
     content: "\e938";
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 10px;
     font-weight: 700;
     width: 16px;
@@ -1365,7 +1365,7 @@ select:focus {
 }
 
 .accordion-box .block .acc-btn.active h3 {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .accordion-box .block .acc-btn .icon-outer {
@@ -1385,7 +1385,7 @@ select:focus {
 }
 
 .accordion-box .block .acc-btn.active .icon-outer {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     transform: translateY(-50%) rotate(0deg);
 }
 
@@ -1509,7 +1509,7 @@ select:focus {
     top: 0;
     right: -1px;
     border-radius: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     border: 0;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
@@ -1796,7 +1796,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: -1000000px;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     z-index: -1;
 }
 
@@ -1896,7 +1896,7 @@ select:focus {
 
 .single-services-style2.active::before,
 .single-services-style2:hover::before {
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     box-shadow: 0px 4px 20px 10px rgba(0, 0, 0, 0.01);
     bottom: 0;
 }
@@ -1948,7 +1948,7 @@ select:focus {
     width: 105px;
     height: 105px;
     border-radius: 50%;
-    background: rgba(var(--thm-base-rgb), .10);
+    background: rgba(var(--thm-basee-rgb), .10);
     transition: all 0.4s ease;
     z-index: -1;
 }
@@ -1962,7 +1962,7 @@ select:focus {
 .single-services-style2 .icon-box span {
     position: relative;
     display: inline-block;
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 90px;
     line-height: 90px;
     transition: color 0.5s ease;
@@ -1972,7 +1972,7 @@ select:focus {
 
 .single-services-style2.active .icon-box span,
 .single-services-style2:hover .icon-box span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     transform: rotateY(180deg) scale(1.0);
 }
 
@@ -1996,7 +1996,7 @@ select:focus {
 
 .single-services-style2.active .text-box h3 a,
 .single-services-style2:hover .text-box h3 a {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-services-style2 .text-box p {
@@ -2033,7 +2033,7 @@ select:focus {
     line-height: 27px;
     font-weight: 600;
     text-transform: capitalize;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
@@ -2045,7 +2045,7 @@ select:focus {
     justify-content: center;
     width: 22px;
     height: 22px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     border-radius: 50%;
     color: #ffffff;
     font-size: 12px;
@@ -2055,8 +2055,8 @@ select:focus {
 
 .single-services-style2 .readmore-btn a:hover {
     color: #ffffff;
-    text-shadow: -.25px -.25px 0 var(--thm-base),
-        .25px .25px var(--thm-base);
+    text-shadow: -.25px -.25px 0 var(--thm-basee),
+        .25px .25px var(--thm-basee);
 }
 
 
@@ -2112,7 +2112,7 @@ select:focus {
 }
 
 .features-style1 .middle-content span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 60px;
     line-height: 60px;
 }
@@ -2178,7 +2178,7 @@ select:focus {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(var(--thm-primary-rgb), .9);
+    background-color: rgba(var(--thm-primaryy-rgb), .9);
 }
 
 .single-features-style1__inner {
@@ -2247,7 +2247,7 @@ select:focus {
     right: -311px;
     width: 566px;
     height: 485px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -2258,7 +2258,7 @@ select:focus {
     left: -311px;
     width: 566px;
     height: 485px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -2376,7 +2376,7 @@ select:focus {
 .single-finances-box .img-box .overly-icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 45px;
     line-height: 45px;
     transition: all 0.5s ease;
@@ -2419,7 +2419,7 @@ select:focus {
 }
 
 .single-finances-box .text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-finances-box .text-box p {
@@ -2447,7 +2447,7 @@ select:focus {
 }
 
 .single-finances-box .btn-box .btn-one:before {
-    background: var(--thm-base);
+    background: var(--thm-basee);
 }
 
 .single-finances-box .btn-box .btn-one i {
@@ -2715,7 +2715,7 @@ select:focus {
     width: 242px;
     height: 207px;
     margin: 0 auto;
-    background: rgba(var(--thm-base-rgb), .50);
+    background: rgba(var(--thm-basee-rgb), .50);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 1;
@@ -2806,7 +2806,7 @@ select:focus {
 }
 
 .single-features-style2 .overlay-text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-features-style2 .overlay-text-box p {
@@ -2951,7 +2951,7 @@ select:focus {
     right: 0;
     width: 90px;
     height: 90px;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     transition: background-color 0.5s ease;
     transition: all 0.5s ease;
     z-index: 3;
@@ -3054,7 +3054,7 @@ select:focus {
 
 .single-services-style1.active .title-box h3 a,
 .single-services-style1:hover .title-box h3 a {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 
@@ -3084,7 +3084,7 @@ select:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 17px;
     line-height: 21px;
     font-weight: 600;
@@ -3143,7 +3143,7 @@ select:focus {
 .single-account-holders-box.active::before,
 .single-account-holders-box:hover::before {
     top: 0;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
 }
 
 .single-account-holders-box .title-box {
@@ -3248,7 +3248,7 @@ select:focus {
 }
 
 .features-style5__icon span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     opacity: 0.05;
     font-size: 300px;
 }
@@ -3300,7 +3300,7 @@ select:focus {
     right: 120px;
     width: 510px;
     height: 436px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -3398,7 +3398,7 @@ select:focus {
 
 .features-style5-single-box:hover .title-box::before {
     opacity: 1;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transform: perspective(500px) scaleX(1.0);
     transition: all 400ms linear;
     transition-delay: 0.1s;
@@ -3418,7 +3418,7 @@ select:focus {
 }
 
 .features-style5-single-box .title-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .features-style5-single-box .title-box span {
@@ -3481,7 +3481,7 @@ select:focus {
 
 .banking-services-tab__button .tabs-button-box .tab-btn-item:hover,
 .banking-services-tab__button .tabs-button-box .tab-btn-item.active-btn-item {
-    border-color: var(--thm-base);
+    border-color: var(--thm-basee);
 }
 
 .banking-services-tab__button .tabs-button-box .tab-btn-item:before {
@@ -3491,7 +3491,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
     transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -3542,7 +3542,7 @@ select:focus {
 
 .banking-services-tab__button .tabs-button-box .tab-btn-item:hover .inner span,
 .banking-services-tab__button .tabs-button-box .tab-btn-item.active-btn-item .inner span {
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
 }
 
 .banking-services-tab__button .tabs-button-box .tab-btn-item .inner h3 {
@@ -3691,14 +3691,14 @@ select:focus {
     justify-content: center;
     width: 50px;
     height: 50px;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     border-radius: 50%;
     transition: background-color 0.5s ease;
     transition: all 0.5s ease;
 }
 
 .banking-services-tab-content-box-item ul li:hover .btn-box a {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 .banking-services-tab-content-box-item .btn-box a span {
@@ -3821,7 +3821,7 @@ select:focus {
 }
 
 .features-style4-content .list-item ul li .icon span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 16px;
     line-height: 16px;
 }
@@ -3837,7 +3837,7 @@ select:focus {
 }
 
 .features-style4-content .btn-box .btn-one:after {
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
 }
 
 
@@ -3882,7 +3882,7 @@ select:focus {
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     border: 5px solid transparent;
     transition: border-color 0.5s ease;
     transition: all 0.5s ease;
@@ -3970,7 +3970,7 @@ select:focus {
     position: relative;
     left: 0;
     display: inline-block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 40px;
     line-height: 40px;
 }
@@ -4019,7 +4019,7 @@ select:focus {
 
 .single-account-creation-step.active .text-box h3 a,
 .single-account-creation-step .text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-account-creation-step .text-box p {
@@ -4079,7 +4079,7 @@ select:focus {
     left: 302px;
     width: 545px;
     height: 253px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(0 0, 50% 100%, 100% 0);
 }
@@ -4090,7 +4090,7 @@ select:focus {
     right: -253px;
     width: 510px;
     height: 436px;
-    background: rgba(var(--thm-base-rgb), .60);
+    background: rgba(var(--thm-basee-rgb), .60);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -4112,7 +4112,7 @@ select:focus {
 .single-grow-wealth-style1 .text-box .category {
     position: relative;
     display: inline-block;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     padding: 4px 22px 4px;
     margin-bottom: 37px;
     transition: background-color 0.5s ease;
@@ -4121,7 +4121,7 @@ select:focus {
 
 .single-grow-wealth-style1.active .text-box .category,
 .single-grow-wealth-style1:hover .text-box .category {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 .single-grow-wealth-style1 .text-box .category p {
@@ -4146,7 +4146,7 @@ select:focus {
 
 .single-grow-wealth-style1.active .text-box h3 a,
 .single-grow-wealth-style1 .text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-grow-wealth-style1 .text-box p {
@@ -4211,7 +4211,7 @@ select:focus {
     position: relative;
     display: flex;
     align-items: center;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 17px;
     line-height: 21px;
     font-weight: 600;
@@ -4319,7 +4319,7 @@ select:focus {
     bottom: -7px;
     right: -1px;
     height: 6px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
     transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -4348,7 +4348,7 @@ select:focus {
     position: absolute;
     top: 0px;
     left: 0;
-    background: rgba(var(--thm-base-rgb), .10);
+    background: rgba(var(--thm-basee-rgb), .10);
     width: 130px;
     height: 130px;
     border-radius: 50%;
@@ -4361,7 +4361,7 @@ select:focus {
     justify-content: center;
     top: 0;
     left: 0;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -4380,7 +4380,7 @@ select:focus {
     left: 5px;
     width: 40px;
     height: 40px;
-    background: rgba(var(--thm-primary-rgb), .10);
+    background: rgba(var(--thm-primaryy-rgb), .10);
     border-radius: 50%;
 }
 
@@ -4411,7 +4411,7 @@ select:focus {
 }
 
 .single-features-style6 .text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-features-style6 .text-box p {
@@ -4688,7 +4688,7 @@ select:focus {
     color: #ffffff;
     font-size: 20px;
     border-radius: 2px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     cursor: pointer;
 }
 
@@ -4746,7 +4746,7 @@ select:focus {
 }
 
 .team-social-link ul li:hover a {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     background-color: #ffffff;
 }
 
@@ -4779,7 +4779,7 @@ select:focus {
 .accounts-style2-tab__button .tabs-button-box {
     position: relative;
     display: block;
-    border-bottom: 3px solid var(--thm-base);
+    border-bottom: 3px solid var(--thm-basee);
 }
 
 .accounts-style2-tab__button .tabs-button-box .tab-btn-item {
@@ -4811,7 +4811,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
     transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -4837,7 +4837,7 @@ select:focus {
 .accounts-style2-tab__button .tabs-button-box .tab-btn-item .inner .icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 65px;
     line-height: 65px;
     transition: all 200ms linear;
@@ -4903,7 +4903,7 @@ select:focus {
 }
 
 .accounts-style2-tab-content-box-item .text-box ul li .icon span {
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
 }
 
 .accounts-style2-tab-content-box-item .text-box .btn-box {
@@ -4924,7 +4924,7 @@ select:focus {
 }
 
 .accounts-style2-tab-content-box-item .text-box .btn-box a i {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     color: #ffffff;
 }
 
@@ -5002,7 +5002,7 @@ select:focus {
     width: 220px;
     height: 380px;
     margin: 0 auto;
-    background-color: rgba(var(--thm-base-rgb), 0.5);
+    background-color: rgba(var(--thm-basee-rgb), 0.5);
     mix-blend-mode: overlay;
     clip-path: polygon(0 0, 0% 100%, 100% 50%);
     z-index: 1;
@@ -5014,7 +5014,7 @@ select:focus {
     right: -253px;
     width: 510px;
     height: 425px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -5038,7 +5038,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
     opacity: 0.95;
 }
 
@@ -5089,7 +5089,7 @@ select:focus {
     height: auto;
     background-color: transparent;
     border-radius: 50%;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 30px;
 }
 
@@ -5153,11 +5153,11 @@ select:focus {
 }
 
 .single-account-steps-style2:hover .inner .count-box {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 .single-account-steps-style2 .inner .count-box span {
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 36px;
     line-height: 36px;
     font-weight: 700;
@@ -5192,7 +5192,7 @@ select:focus {
 }
 
 .single-account-steps-style2 .inner .text-box h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-account-steps-style2 .inner .text-box p {
@@ -5230,7 +5230,7 @@ select:focus {
     position: relative;
     display: block;
     overflow: hidden;
-    background: linear-gradient(180deg, rgba(var(--thm-black-rgb), 1.0), rgba(var(--thm-base-rgb), 1.0));
+    background: linear-gradient(180deg, rgba(var(--thm-black-rgb), 1.0), rgba(var(--thm-basee-rgb), 1.0));
 }
 
 .loan-process-img-box__inner .inner img {
@@ -5254,7 +5254,7 @@ select:focus {
     background-color: #FFFFFF;
     box-shadow: 0px 4px 20px 10px rgba(0, 0, 0, 0.05);
     border-radius: 2px;
-    border-bottom: 5px solid var(--thm-base);
+    border-bottom: 5px solid var(--thm-basee);
     padding: 20px 50px 20px;
     z-index: 3;
 }
@@ -5291,7 +5291,7 @@ select:focus {
 }
 
 .loan-process-img-box__inner .outer .counting span {
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 60px;
     line-height: 60px;
     font-weight: 800;
@@ -5308,7 +5308,7 @@ select:focus {
 .loan-process-img-box__inner .outer .counting i {
     font-size: 30px;
     font-weight: 700;
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
 }
 
 .loan-process-img-box__inner .outer .counting-box p {
@@ -5385,7 +5385,7 @@ select:focus {
 .loan-process-content-box__inner ul li .icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 24px;
     line-height: 24px;
     transition: background-color 0.5s ease;
@@ -5393,7 +5393,7 @@ select:focus {
 }
 
 .loan-process-content-box__inner ul li:hover .icon span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .loan-process-content-box__inner ul li .text {
@@ -5433,7 +5433,7 @@ select:focus {
     box-shadow: 0px 4px 20px 10px rgba(0, 0, 0, 0.05);
     padding: 52px 40px 54px;
     border-radius: 2px;
-    border-bottom: 6px solid var(--thm-base);
+    border-bottom: 6px solid var(--thm-basee);
     margin-bottom: 30px;
 }
 
@@ -5468,7 +5468,7 @@ select:focus {
 }
 
 .single-contact-info-style2 p a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .single-contact-info-style2 .btn-box {
@@ -5484,7 +5484,7 @@ select:focus {
 }
 
 .single-contact-info-style2 .btn-box .btn-one:after {
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
 }
 
 
@@ -5518,9 +5518,9 @@ select:focus {
     display: block;
     max-width: 720px;
     width: 100%;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     padding: 57px 70px 72px;
-    border-left: 5px solid var(--thm-base);
+    border-left: 5px solid var(--thm-basee);
 }
 
 .call-back-form .title {
@@ -5758,7 +5758,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
     transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -5782,7 +5782,7 @@ select:focus {
     position: relative;
     display: block;
     overflow: hidden;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     border-radius: 2px;
     padding: 37px 40px 40px;
     margin-top: 60px;
@@ -5807,7 +5807,7 @@ select:focus {
     right: 0;
     width: 135px;
     height: 115px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -5873,7 +5873,7 @@ select:focus {
 .sidebar-banner-box .list-item ul li .icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 15px;
     line-height: 15px;
 }
@@ -5937,7 +5937,7 @@ select:focus {
 }
 
 .single-cards-box .inner-title h3 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 
@@ -6004,7 +6004,7 @@ select:focus {
     left: 1px;
     width: 7px;
     height: 7px;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     transform: rotate(45deg) translateY(0%);
 }
 
@@ -6103,13 +6103,13 @@ select:focus {
 
 .emi-calculator-tab__button .tabs-button-box .tab-btn-item.active-btn-item .inner,
 .emi-calculator-tab__button .tabs-button-box .tab-btn-item:hover .inner {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 .emi-calculator-tab__button .tabs-button-box .tab-btn-item .inner span {
     position: relative;
     display: inline-block;
-    color: var(--thm-primary);
+    color: var(--thm-primaryy);
     font-size: 50px;
     line-height: 50px;
     transition: all 0.5s ease;
@@ -6255,7 +6255,7 @@ select:focus {
 
 .price-range-box .price-range-slider .ui-slider-range {
     height: 10px;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
     border-radius: 0px 0px 0px 0px;
 }
 
@@ -6350,7 +6350,7 @@ select:focus {
 
 .loan-term-range-box .loan-term-range-slider .ui-slider-range {
     height: 10px;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
     border-radius: 0px 0px 0px 0px;
 }
 
@@ -6444,7 +6444,7 @@ select:focus {
 
 .interest-rate-range-box .interest-rate-range-slider .ui-slider-range {
     height: 10px;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
     border-radius: 0px 0px 0px 0px;
 }
 
@@ -6734,7 +6734,7 @@ select:focus {
     right: 0px;
     bottom: 0px;
     width: 195px;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     color: #ffffff;
     font-size: 15px;
     font-weight: 700;
@@ -6795,7 +6795,7 @@ select:focus {
     top: 0;
     left: 0;
     right: 0;
-    background: var(--thm-base);
+    background: var(--thm-basee);
     padding: 18px 20px 17px;
     z-index: 100;
 }
@@ -6943,7 +6943,7 @@ select:focus {
 }
 
 .error-content .big-title h2 {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 200px;
     line-height: 180px;
     font-weight: 700;
@@ -7051,7 +7051,7 @@ select:focus {
 
 .error-page__search-content.search-form input[type="text"]:focus+button,
 .error-page__search-content .search-form button:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .error-page__search-content .search-form input::-webkit-input-placeholder {
@@ -7136,7 +7136,7 @@ select:focus {
 }
 
 .hidden-sidebar-close:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     background-color: #ffffff;
 }
 
@@ -7187,7 +7187,7 @@ select:focus {
 }
 
 .pdf-widget .content .icon i {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 40px;
     line-height: 40px;
 }
@@ -7213,7 +7213,7 @@ select:focus {
     position: relative;
     display: block;
     width: 40px;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 20px;
     margin-top: 5px;
 }
@@ -7260,7 +7260,7 @@ select:focus {
     bottom: 0;
     width: 100%;
     display: none;
-    background-color: rgba(var(--thm-base-rgb), 0.8);
+    background-color: rgba(var(--thm-basee-rgb), 0.8);
     overflow: hidden;
     cursor: none;
     z-index: 999;
@@ -7606,7 +7606,7 @@ select:focus {
 
 .sidebar-search-box .search-form input[type="text"]:focus+button,
 .sidebar-search-box .search-form button:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .sidebar-search-box .search-form input::-webkit-input-placeholder {
@@ -7702,7 +7702,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     border-radius: 2px;
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
@@ -7768,7 +7768,7 @@ select:focus {
     left: 0px;
     width: 100%;
     height: 100%;
-    background: rgba(var(--thm-base-rgb), .80);
+    background: rgba(var(--thm-basee-rgb), .80);
     border-radius: 0%;
     opacity: 0;
     transform: perspective(0px) scale(0);
@@ -7818,7 +7818,7 @@ select:focus {
 }
 
 .sidebar-blog-post li .title-box h4 a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .sidebar-blog-post li .title-box .date-box {
@@ -7842,7 +7842,7 @@ select:focus {
     font-size: 16px;
     display: inline-block;
     padding-right: 5px;
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 
@@ -7892,7 +7892,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     transition: -webkit-transform 0.4s ease;
     transition: transform 0.4s ease;
     transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -7910,7 +7910,7 @@ select:focus {
 
 .single-sidebar-box .popular-tag li a:hover {
     color: #ffffff;
-    border-color: var(--thm-base);
+    border-color: var(--thm-basee);
 }
 
 
@@ -7972,7 +7972,7 @@ select:focus {
     margin: 0 auto;
     width: 286px;
     height: 175px;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 1;
@@ -7988,12 +7988,12 @@ select:focus {
 .banner-sidebar-style2 .content-box span {
     position: relative;
     display: inline-block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 15px;
     line-height: 18px;
     font-weight: 500;
     font-family: var(--thm-font);
-    border-bottom: 1px solid var(--thm-base);
+    border-bottom: 1px solid var(--thm-basee);
 }
 
 .banner-sidebar-style2 .content-box h3 {
@@ -8036,7 +8036,7 @@ select:focus {
 }
 
 .banner-sidebar-style2 .content-box .btn-box a:hover {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .banner-sidebar-style2 .content-box .btn-box a span {
@@ -8050,14 +8050,14 @@ select:focus {
     width: 22px;
     height: 22px;
     border-radius: 50%;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     margin-left: 10px;
     transition: background-color 0.5s ease;
     transition: all 0.5s ease;
 }
 
 .banner-sidebar-style2 .content-box .btn-box a:hover span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     background-color: #ffffff;
 }
 
@@ -8215,13 +8215,13 @@ select:focus {
 }
 
 .accordion-box-style1 .accordion .accord-btn.active h4 {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
 
 .accordion-box-style1 .accordion .accord-btn.active:after {
     color: #ffffff;
     content: "\e91c";
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
 }
 
 
@@ -8327,17 +8327,17 @@ select:focus {
 
 .faq-form-box form input[type="text"]:focus {
     color: var(--thm-black);
-    border-color: var(--thm-base);
+    border-color: var(--thm-basee);
 }
 
 .faq-form-box form input[type="email"]:focus {
     color: var(--thm-black);
-    border-color: var(--thm-base);
+    border-color: var(--thm-basee);
 }
 
 .faq-form-box form textarea:focus {
     color: var(--thm-black);
-    border-color: var(--thm-base);
+    border-color: var(--thm-basee);
 }
 
 .faq-form-box form input[type="text"]::-webkit-input-placeholder {

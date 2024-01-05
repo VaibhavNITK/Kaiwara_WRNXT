@@ -51,7 +51,7 @@
     position: relative;
     display: block;
     overflow: hidden;
-    background: linear-gradient(180deg, rgba(var(--thm-black-rgb), 1.0), rgba(var(--thm-base-rgb), 1.0));
+    background: linear-gradient(180deg, rgba(var(--thm-black-rgb), 1.0), rgba(var(--thm-basee-rgb), 1.0));
 }
 
 .about-style1__img-inner .top-img-box img {
@@ -70,7 +70,7 @@
     left: 0;
     bottom: 0;
     z-index: 2;
-    background: linear-gradient(180deg, rgba(var(--thm-base-rgb), 1.0), rgba(var(--thm-black-rgb), 1.0));
+    background: linear-gradient(180deg, rgba(var(--thm-basee-rgb), 1.0), rgba(var(--thm-black-rgb), 1.0));
 }
 
 .about-style1__img-inner .bottom-img-box:before {
@@ -127,7 +127,7 @@
 .about-style1__img-inner ul li span {
     position: relative;
     display: inline-block;
-    color: #81ABFF;
+    color: #5AA057;
     font-size: 32px;
     line-height: 32px;
     padding-right: 16px;
@@ -194,7 +194,7 @@
 .about-style1__content-inner ul li .icon span {
     position: relative;
     display: inline-block;
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 24px;
     line-height: 24px;
 }
@@ -396,7 +396,7 @@
 }
 
 .about-style2-content .list-item ul li .icon span {
-    color: var(--thm-base);
+    color: var(--thm-basee);
     font-size: 24px;
     line-height: 24px;
 }
@@ -498,12 +498,12 @@
     height: 10px;
     border-radius: 0px;
     transition: all 2000ms ease 300ms;
-    background-color: var(--thm-primary);
+    background-color: var(--thm-primaryy);
     border-radius: 10px 0px 0px 10px;
 }
 
 
 .progress-levels-outer-box .progress-levels .progress-box:nth-child(2) .bar .bar-fill {
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     border-radius: 10px 0px 0px 10px;
 }

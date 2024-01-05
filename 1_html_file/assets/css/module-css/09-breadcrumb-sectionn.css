@@ -41,7 +41,7 @@
     left: 0;
     bottom: 0;
     width: 15px;
-    background: var(--thm-primary);
+    background: var(--thm-primaryy);
 }
 
 
@@ -53,7 +53,7 @@
     width: 566px;
     height: 360px;
     margin: 0 auto;
-    background-color: var(--thm-base);
+    background-color: var(--thm-basee);
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 1;
@@ -138,7 +138,7 @@
     bottom: 10px;
     width: 6px;
     height: 6px;
-    border-left: 6px solid var(--thm-base);
+    border-left: 6px solid var(--thm-basee);
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
 }
@@ -160,5 +160,5 @@
 
 .breadcrumb-menu ul li:hover a,
 .breadcrumb-menu ul li.active {
-    color: var(--thm-base);
+    color: var(--thm-basee);
 }
