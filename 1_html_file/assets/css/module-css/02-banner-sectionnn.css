@@ -115,7 +115,7 @@
 }
 
 .main-slider .main-slider-content .sub-title h5 {
-    color: #ffffff;
+    color: #5AA057;
     font-size: 16px;
     line-height: 26px;
 }
@@ -151,7 +151,7 @@
 }
 
 .main-slider .main-slider-content .big-title h2 {
-    color: #ffffff;
+    color: #5AA057;
     font-size: 60px;
     line-height: 1.2em;
     font-weight: 800;
@@ -444,7 +444,7 @@
     left: 0;
     bottom: 0;
     width: 188px;
-    background: rgba(15, 26, 74, 0.8);
+    background: #5AA057;
     z-index: -1;
 }
 

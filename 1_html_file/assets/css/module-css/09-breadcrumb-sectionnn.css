@@ -31,7 +31,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.7);
+    /* background: rgba(0, 0, 0, 0.7); */
 }
 
 .breadcrumb-style1-bg::after {
@@ -41,7 +41,7 @@
     left: 0;
     bottom: 0;
     width: 15px;
-    background: var(--thm-primaryyy);
+    /* background: var(--thm-primaryyy); */
 }
 
 
@@ -53,7 +53,7 @@
     width: 566px;
     height: 360px;
     margin: 0 auto;
-    background-color: var(--thm-baseee);
+    /* background-color: var(--thm-baseee); */
     mix-blend-mode: overlay;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     z-index: 1;
@@ -93,7 +93,7 @@
 }
 
 .breadcrumb-style1 .title h2 {
-    color: #ffffff;
+    color: #5AA057;
     font-size: 60px;
     line-height: 1.2em;
     font-weight: 800;
@@ -121,7 +121,7 @@
 .breadcrumb-menu ul li {
     position: relative;
     display: block;
-    color: #ffffff;
+    color: #FCDD10;
     font-size: 12px;
     line-height: 26px;
     font-weight: 500;
@@ -153,7 +153,7 @@
 }
 
 .breadcrumb-menu ul li a {
-    color: #FFFFFF;
+    color: #5AA057;
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
