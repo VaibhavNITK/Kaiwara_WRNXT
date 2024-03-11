@@ -1287,7 +1287,7 @@
 .main-menu-style1 {
     position: relative;
     display: block;
-    background-color: #ffffff;
+    background-color: #FCDD10;
 }
 
 .main-menu-style1 .main-menu__wrapper {
@@ -1328,7 +1328,7 @@
     left: -100000px;
     bottom: 0;
     right: 0;
-    background-color: var(--thm-primaryyy);
+    background-color: #ffffff;
     border-right: 5px solid var(--thm-baseee);
     z-index: -1;
 }
